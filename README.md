@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://tteokgukk.github.io/xx/](https://tteokgukk.github.io/xx/)
+> Open this page at [https://tteokgukk.github.io/goose-apocalypse/](https://tteokgukk.github.io/goose-apocalypse/)
 
 ## Use as Extension
 
@@ -10,22 +10,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tteokgukk/xx** and import
+* search for **https://github.com/tteokgukk/goose-apocalypse** and import
 
-## Edit this project ![Build status badge](https://github.com/tteokgukk/xx/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/tteokgukk/goose-apocalypse/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/tteokgukk/xx** and click import
+* paste **https://github.com/tteokgukk/goose-apocalypse** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/tteokgukk/xx/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/tteokgukk/goose-apocalypse/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
